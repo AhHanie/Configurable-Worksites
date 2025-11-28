@@ -33,7 +33,10 @@ namespace SK_Configurable_Worksites
             }
 
             listing.GapLine();
-            listing.Label("SKCW.ConfigureBiomeWeights".Translate());
+            Rect biomeWeightsLabelRect = listing.GetRect(Text.LineHeight);
+            Widgets.DrawHighlightIfMouseover(biomeWeightsLabelRect);
+            Widgets.Label(biomeWeightsLabelRect, "SKCW.ConfigureBiomeWeights".Translate());
+            TooltipHandler.TipRegion(biomeWeightsLabelRect, "SKCW.ConfigureBiomeWeightsTooltip".Translate());
 
             Rect dropdownRect = listing.GetRect(Text.LineHeight);
             Widgets.Label(dropdownRect.LeftHalf(), "SKCW.BiomeLabel".Translate());

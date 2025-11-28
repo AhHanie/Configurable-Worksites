@@ -11,4 +11,5 @@
   <SKCW.SettingsRestartNotice>Changes will not take effect until you restart your game.</SKCW.SettingsRestartNotice>
   <SKCW.ResetToDefaultsLabel>Reset to defaults</SKCW.ResetToDefaultsLabel>
   <SKCW.ResetToDefaultsTooltip>Restore all worksite settings, including biome weights, to their original values.</SKCW.ResetToDefaultsTooltip>
+  <SKCW.ConfigureBiomeWeightsTooltip>Higher weights make it more likely for worksites to spawn in this biome.</SKCW.ConfigureBiomeWeightsTooltip>
 </LanguageData>
