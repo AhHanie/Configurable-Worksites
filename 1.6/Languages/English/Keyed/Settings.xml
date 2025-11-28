@@ -1,0 +1,14 @@
+<LanguageData>
+  <SKCW.ConfigureSpawnDistances>Configure worksite spawn distances</SKCW.ConfigureSpawnDistances>
+  <SKCW.MinimumSpawnRangeLabel>Minimum spawn range: {0}</SKCW.MinimumSpawnRangeLabel>
+  <SKCW.MaximumSpawnRangeLabel>Maximum spawn range: {0}</SKCW.MaximumSpawnRangeLabel>
+  <SKCW.ConfigureBiomeWeights>Configure biome worksite selection weight</SKCW.ConfigureBiomeWeights>
+  <SKCW.BiomeLabel>Biome</SKCW.BiomeLabel>
+  <SKCW.SelectBiomePlaceholder>Select a biome</SKCW.SelectBiomePlaceholder>
+  <SKCW.CampSelectionWeightLabel>Camp selection weight: {0}</SKCW.CampSelectionWeightLabel>
+  <SKCW.RelaxedWorksiteSpawningLabel>Relax worksite spawning conditions</SKCW.RelaxedWorksiteSpawningLabel>
+  <SKCW.RelaxedWorksiteSpawningTooltip>Lets worksites try to appear almost anywhere as long as there is loot: farming sites ignore biomes that block farming, hunting ignores low animal counts, logging ignores low tree counts, and mining ignores flat or gentle terrain.</SKCW.RelaxedWorksiteSpawningTooltip>
+  <SKCW.SettingsRestartNotice>Changes will not take effect until you restart your game.</SKCW.SettingsRestartNotice>
+  <SKCW.ResetToDefaultsLabel>Reset to defaults</SKCW.ResetToDefaultsLabel>
+  <SKCW.ResetToDefaultsTooltip>Restore all worksite settings, including biome weights, to their original values.</SKCW.ResetToDefaultsTooltip>
+</LanguageData>

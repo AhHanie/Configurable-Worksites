@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Configurable Worksites</name>
+  <author>Sk</author>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <packageId>sk.configurableworksites</packageId>
+  <description>Adds a mod settings menu that allows you to configure certain aspects of the worksite quest.</description>
+  <modVersion>1.0.0</modVersion>
+  <url>https://github.com/AhHanie/Configurable-Worksites</url>
+</ModMetaData>
