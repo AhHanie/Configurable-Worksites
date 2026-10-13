@@ -4,10 +4,11 @@
   <author>Sk</author>
   <supportedVersions>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <packageId>sk.configurableworksites</packageId>
   <description>Adds a mod settings menu that allows you to configure certain aspects of the worksite quest.</description>
-  <modVersion>1.0.2</modVersion>
+  <modVersion>1.1.0</modVersion>
   <url>https://github.com/AhHanie/Configurable-Worksites</url>
   <modDependencies>
       <li>
